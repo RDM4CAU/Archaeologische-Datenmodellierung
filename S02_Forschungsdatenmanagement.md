@@ -28,7 +28,7 @@ comment:  Einführung in das Thema Forschungsdatenmanagement im Rahmen der [LV15
 
 # Disclaimer
 
->TinyURL zu dieser Präsentation: https://tinyurl.com/
+>TinyURL zu dieser Präsentation: [https://tinyurl.com//S02-FDM](https://tinyurl.com/S02-FDM)
 
 >**Disclaimer**: Please note that you are leaving the CAU pages once you open this presentation in your browser. This presentation includes links to other third party websites and services. When you click on these links you will leave this presentation and will be redirected to the respective another sites. These sites are not under our control.
 >
