@@ -518,6 +518,8 @@ Eine hierarchische Ordnerstruktur entwickeln:
 {{1-2}}
 *************************
 
+<!-- style="font-size: 20px;" -->
+Es sollte so früh wie möglich (in einem Projektverlauf) eine logische Struktur mit klaren Hauptkategorien für Dateiordner angelegt werden, wie z. B.:
 - Nach welchen Attributen sind die Datein kategorisierbar?
 
   - Projekt
@@ -600,7 +602,7 @@ Verwendung von klaren, konsistenten Namen für Dateien:
 
   - einzig erlaubte Sonderzeichen sind Unterstrich (_) und Bindestrich (-)
 
-  - Groß- und Kleinschreibung konsistent beibehalten!
+- Groß- und Kleinschreibung konsistent beibehalten!
 
 *************************
 
@@ -611,7 +613,7 @@ Verwendung von klaren, konsistenten Namen für Dateien:
 
   - Grundsätzlich unspezifische Namensanhänge, wie \_final, \_fertig, \_inArbeit u. ä. vermeiden
 
-  - besser mit v01, v02, ... v1-1, v1-2 oder mit Datumsangaben versionen kenntlich machen.
+  - Versionen besser mit v01, v02, ... v1-1, v1-2 oder mit Datumsangaben kenntlich machen.
 
   - Regeln für Versionsschritte definieren und dokumentieren.
 
@@ -620,15 +622,18 @@ Verwendung von klaren, konsistenten Namen für Dateien:
 {{2}}
 *************************
 
-- **Dokumentation** von Struktur, Benennungsscheme und Regeln in einer README-Datei
+- **Dokumentation** von Struktur, Benennungsscheme und Regeln in einer **README-Datei**
 
   - Ordnerstruktur
   
   - Benennungskonventionen mit
   
     - Namensbestandteilen
+      
     - Regeln
+
     - verwendeten Abkürzungen
+
     - Versionierungsschema
 
 *************************
